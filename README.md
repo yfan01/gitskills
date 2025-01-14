@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick and simple.
-Git is useful for team work coding.
+Git is a useful tool for team work coding.
