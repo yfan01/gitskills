@@ -11,4 +11,8 @@ Desktop.ini
 dist
 build
 
+# Hidden file
+.*
+!.gitignore
+
 # Your defined configurations
